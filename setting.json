@@ -1,0 +1,19 @@
+{
+  "job": "ast",
+  "sim": {
+    "duration": 180,
+    "times": 1
+  },
+  "status": {
+    "WD": 50,
+    "AA": 30,
+    "Delay": 2.5,
+    "AP": 5000,
+    "CRT": 800,
+    "DET": 800,
+    "SS": 800,
+    "TEN": 800
+  },
+  "opening": [],
+  "rotation": "ast-default"
+}
