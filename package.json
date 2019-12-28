@@ -5,5 +5,8 @@
   "main": "app.js",
   "author": {
     "name": ""
+  },
+  "dependencies": {
+    "deepcopy": "^2.0.0"
   }
 }

@@ -5,15 +5,16 @@
     "times": 1
   },
   "status": {
-    "WD": 50,
-    "AA": 30,
-    "Delay": 2.5,
-    "AP": 5000,
-    "CRT": 800,
-    "DET": 800,
-    "SS": 800,
-    "TEN": 800
+    "wd": 50,
+    "aa": 30,
+    "delay": 2.5,
+    "ap": 340,
+    "crt": 380,
+    "dh": 380,
+    "det": 380,
+    "ss": 380,
+    "ten": 380
   },
-  "opening": [],
+  "opener": [],
   "rotation": "ast-default"
 }
