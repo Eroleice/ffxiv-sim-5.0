@@ -1,18 +1,19 @@
 {
   "job": "ast",
   "sim": {
-    "duration": 180,
+    "duration": 60,
     "times": 1
   },
   "status": {
-    "wd": 50,
-    "aa": 30,
-    "delay": 2.5,
-    "ap": 340,
-    "crt": 380,
+    "wd": 164,
+    "aa": 174.93,
+    "delay": 3.20,
+    "ap": 4237,
+    "crt": 2918,
     "dh": 380,
-    "det": 380,
-    "ss": 380,
+    "det": 2616,
+    "ss": 889,
+    "pie": 1905,
     "ten": 380
   },
   "opener": [],

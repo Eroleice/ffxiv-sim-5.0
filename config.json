@@ -1,4 +1,6 @@
 {
   "expect_mode": false,
-  "debug_mode": true
+  "debug_mode": true,
+  "animation_block": 75,
+  "caster_auto":  true
 }
